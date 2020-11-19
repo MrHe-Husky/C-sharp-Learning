@@ -1,0 +1,7 @@
+F:\Code\C#\EventAnnounce\EventAnnounce\bin\Debug\EventAnnounce.exe.config
+F:\Code\C#\EventAnnounce\EventAnnounce\bin\Debug\EventAnnounce.exe
+F:\Code\C#\EventAnnounce\EventAnnounce\bin\Debug\EventAnnounce.pdb
+F:\Code\C#\EventAnnounce\EventAnnounce\obj\Debug\EventAnnounce.csprojAssemblyReference.cache
+F:\Code\C#\EventAnnounce\EventAnnounce\obj\Debug\EventAnnounce.csproj.CoreCompileInputs.cache
+F:\Code\C#\EventAnnounce\EventAnnounce\obj\Debug\EventAnnounce.exe
+F:\Code\C#\EventAnnounce\EventAnnounce\obj\Debug\EventAnnounce.pdb
