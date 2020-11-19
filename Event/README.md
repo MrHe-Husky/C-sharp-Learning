@@ -1,0 +1,2 @@
+EventAnnounce使用了一种较为传统完整的事件声明
+EventAnnounceSimple则使用了语法糖，目前流行的事件声明方式(field-like)
