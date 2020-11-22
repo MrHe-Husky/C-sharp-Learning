@@ -1,0 +1,10 @@
+F:\Code\C#\EventExampleW4_WindowsForms\EventExampleW4_WindowsForms\bin\Debug\EventExampleW4_WindowsForms.exe.config
+F:\Code\C#\EventExampleW4_WindowsForms\EventExampleW4_WindowsForms\bin\Debug\EventExampleW4_WindowsForms.exe
+F:\Code\C#\EventExampleW4_WindowsForms\EventExampleW4_WindowsForms\bin\Debug\EventExampleW4_WindowsForms.pdb
+F:\Code\C#\EventExampleW4_WindowsForms\EventExampleW4_WindowsForms\obj\Debug\EventExampleW4_WindowsForms.csprojAssemblyReference.cache
+F:\Code\C#\EventExampleW4_WindowsForms\EventExampleW4_WindowsForms\obj\Debug\EventExampleW4_WindowsForms.myForm.resources
+F:\Code\C#\EventExampleW4_WindowsForms\EventExampleW4_WindowsForms\obj\Debug\EventExampleW4_WindowsForms.Properties.Resources.resources
+F:\Code\C#\EventExampleW4_WindowsForms\EventExampleW4_WindowsForms\obj\Debug\EventExampleW4_WindowsForms.csproj.GenerateResource.cache
+F:\Code\C#\EventExampleW4_WindowsForms\EventExampleW4_WindowsForms\obj\Debug\EventExampleW4_WindowsForms.csproj.CoreCompileInputs.cache
+F:\Code\C#\EventExampleW4_WindowsForms\EventExampleW4_WindowsForms\obj\Debug\EventExampleW4_WindowsForms.exe
+F:\Code\C#\EventExampleW4_WindowsForms\EventExampleW4_WindowsForms\obj\Debug\EventExampleW4_WindowsForms.pdb
