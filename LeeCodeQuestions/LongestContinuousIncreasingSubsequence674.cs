@@ -10,7 +10,7 @@ namespace LongestContinuousIncreasingSubsequence674
      {
           static void Main(string[] args)
           {
-               int[] numArray = {1,3,5,7 };
+               int[] numArray = {1,3,5,7，5,7};
                Console.WriteLine("{0}",new Solution().FindLengthOfLCIS(numArray));
           }
      }
