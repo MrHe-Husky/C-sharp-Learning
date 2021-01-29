@@ -1,0 +1,15 @@
+F:\Code\C#\HellowWorld\Wpf _HellowWorld\Wpf _HellowWorld\bin\Debug\Wpf _HellowWorld.exe.config
+F:\Code\C#\HellowWorld\Wpf _HellowWorld\Wpf _HellowWorld\bin\Debug\Wpf _HellowWorld.exe
+F:\Code\C#\HellowWorld\Wpf _HellowWorld\Wpf _HellowWorld\bin\Debug\Wpf _HellowWorld.pdb
+F:\Code\C#\HellowWorld\Wpf _HellowWorld\Wpf _HellowWorld\obj\Debug\Wpf _HellowWorld.csprojAssemblyReference.cache
+F:\Code\C#\HellowWorld\Wpf _HellowWorld\Wpf _HellowWorld\obj\Debug\MainWindow.g.cs
+F:\Code\C#\HellowWorld\Wpf _HellowWorld\Wpf _HellowWorld\obj\Debug\App.g.cs
+F:\Code\C#\HellowWorld\Wpf _HellowWorld\Wpf _HellowWorld\obj\Debug\Wpf _HellowWorld_MarkupCompile.cache
+F:\Code\C#\HellowWorld\Wpf _HellowWorld\Wpf _HellowWorld\obj\Debug\Wpf _HellowWorld_MarkupCompile.lref
+F:\Code\C#\HellowWorld\Wpf _HellowWorld\Wpf _HellowWorld\obj\Debug\MainWindow.baml
+F:\Code\C#\HellowWorld\Wpf _HellowWorld\Wpf _HellowWorld\obj\Debug\Wpf _HellowWorld.g.resources
+F:\Code\C#\HellowWorld\Wpf _HellowWorld\Wpf _HellowWorld\obj\Debug\Wpf__HellowWorld.Properties.Resources.resources
+F:\Code\C#\HellowWorld\Wpf _HellowWorld\Wpf _HellowWorld\obj\Debug\Wpf _HellowWorld.csproj.GenerateResource.cache
+F:\Code\C#\HellowWorld\Wpf _HellowWorld\Wpf _HellowWorld\obj\Debug\Wpf _HellowWorld.csproj.CoreCompileInputs.cache
+F:\Code\C#\HellowWorld\Wpf _HellowWorld\Wpf _HellowWorld\obj\Debug\Wpf _HellowWorld.exe
+F:\Code\C#\HellowWorld\Wpf _HellowWorld\Wpf _HellowWorld\obj\Debug\Wpf _HellowWorld.pdb
