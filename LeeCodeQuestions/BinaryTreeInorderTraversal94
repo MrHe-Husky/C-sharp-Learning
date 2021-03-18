@@ -1,0 +1,48 @@
+using System;
+using System.Collections.Generic;
+
+namespace BinaryTreeInorderTraversal94
+{
+     class Program
+     {
+          static void Main(string[] args)
+          {
+               
+          }
+     }
+
+     public class TreeNode
+     {
+          public int val;
+          public TreeNode left;
+          public TreeNode right;
+          public TreeNode(int val = 0, TreeNode left = null, TreeNode right = null)
+          {
+               this.val = val;
+               this.left = left;
+               this.right = right;
+          }
+     }
+
+     //一个迭代实现的中序遍历
+     public class Solution
+     {
+          public IList<int> InorderTraversal(TreeNode root)
+          {
+               List<int> AnswerList = new List<int>();
+               Stack<TreeNode> NodeStack = new Stack<TreeNode>();
+               while (root != null || NodeStack.Count != 0)
+               {
+                    while (root != null)
+                    {
+                         NodeStack.Push(root);
+                         root = root.left;
+                    }
+                    root = NodeStack.Pop();
+                    AnswerList.Add(root.val);
+                    root = root.right;
+               }
+               return AnswerList;
+          }
+     }
+}
