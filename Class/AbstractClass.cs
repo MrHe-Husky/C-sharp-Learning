@@ -41,7 +41,7 @@ namespace AbstractClass
                {
                     Console.WriteLine("Vehicle stoped");
                }//虚方法
-          }
+          }//抽象类
 
           class Car : Vehicle
           {
@@ -54,7 +54,7 @@ namespace AbstractClass
                {
                     Console.WriteLine("Car stoped");
                }
-          }
+          }//子类对抽象类的重写
 
           class Racecar : Car
           {
